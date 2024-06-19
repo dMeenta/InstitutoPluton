@@ -1,6 +1,6 @@
 # Para iniciar el proyecto localmente:
 
-1. Ejecute el script de MySQL `DB_PlutonProject` para tener la base de datos del instituto pluton.
+1. Ejecute el script de SQL `DB_PlutonProject.sql` para tener la base de datos del instituto pluton.
 2. En el package `baseDdatos` > `Enlace.java` tendrá que cambiar (1) el puerto (por lo usual es el 3306) y (2) la contraseña que tenga asignada para su gestor de base de datos.
 ![image](https://github.com/dMeenta/InstitutoPluton/assets/135300277/3b018575-fcc7-42a9-8401-c542f165da9f)
 3. Por ultimo presionar `Shift+F6` para ejecutar el proyecto, desde el Inicio de Sesión. Puede utilizar cualquiera de los usuarios que viene con el script.
