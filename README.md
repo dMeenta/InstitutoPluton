@@ -1,3 +1,4 @@
+'''
 #Para iniciar el proyecto localmente:
 
 1. Ejecute el script de MySQL `DB_PlutonProject` para tener la base de datos del instituto pluton.
@@ -10,4 +11,4 @@ Usuario | Contraseña
 5. Inicialmente no verá ningún alumno, por lo que le recomiendo ingresar con un usuario tipo Admin(SEC) para empezar registrandolos por su cuenta.
 6. Para cerrar la ventana primero debe cerrar sesión con el botón que se muestra en `Archivo`.
 ![image](https://github.com/dMeenta/InstitutoPluton/assets/135300277/981ee327-6b8a-49ce-ac63-da69591dfe1b)
-
+'''
